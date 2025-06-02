@@ -35,7 +35,7 @@
     </nav>
     <section id="newsletter">
       <div class="container">
-        <h1>LOG MASUK SISTEM</h1>
+        <h1>Log Masuk Sistem Pelepasan Tugas Pensyarah ILPS</h1>
       </div>
     </section> 
 
