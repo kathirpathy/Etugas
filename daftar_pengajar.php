@@ -66,7 +66,7 @@
                     <img src="img/daftar1.png" class="img-fluid" alt="Sample image"></div>
                     <div class="col-md-8 col-lg-0 col-xl-4 offset-xl-1">
                       <div class="container-sm">
-                        <h2>Daftar Pensyarah</h2>
+                        <h2>Daftar Pengajar</h2>
   
   <!--form-->
   <form class="form-horizontal" role="form" action="" method="post">
